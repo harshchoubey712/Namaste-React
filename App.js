@@ -1,3 +1,7 @@
+// imported react and reactdom from nodemodule folder
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+
 /*
    const heading = React.createElement(
   "h1", 
