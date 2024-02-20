@@ -1,22 +1,25 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-// Title component defined using JSX
-const Title = () => (
+// A simple React element defined using JSX
+const elem = <span>React Element</span>;
+
+// A title element that incorporates the 'elem' React element
+const title = (
   <h1 className="head" tabIndex="5">
+    {elem}
     Namaste React using JSX 🚀
   </h1>
 );
 
-// HeadingComponent that uses Title component
+// A functional React component that renders 'title' and another heading
 const HeadingComponent = () => (
   <div id="container">
-    <Title />
+    {title}
     <h1 className="heading">Namaste React Functional Component</h1>
   </div>
 );
 
-// Root of the React application
+// The root of the React application where the 'HeadingComponent' is rendered
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<HeadingComponent />);
-
