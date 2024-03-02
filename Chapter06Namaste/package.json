@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
-    "dev": "rm -rf dist-dev .parcel-cache && parcel --dist-dir dist-dev /Users/harshchoubey/Documents/Namaste-React/Chapter06/index.html",
+    "dev": "rm -rf dist-dev .parcel-cache && parcel --dist-dir dist-dev /Users/harshchoubey/Documents/Namaste-React/Chapter06Namaste/index.html",
     
     "build": "parcel build index.html"
   },
