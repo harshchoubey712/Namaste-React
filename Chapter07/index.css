@@ -1,0 +1,80 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 200px;
+}
+
+
+/* Style for the navigation items list */
+.nav-items > ul {
+  font-size: 24px;
+  display: flex;
+  list-style-type: none;
+}
+
+/* Style for each navigation item */
+.nav-items > ul > li {
+  padding: 10px;
+  margin: 10px;
+}
+
+/* Style for the restaurant container */
+.res-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Style for the restaurant card */
+.res-card {
+  margin: 5px;
+  padding: 5px;
+  width: 200px;
+  height: 400px;
+}
+
+/* Style for hovering over the restaurant card */
+.res-card:hover {
+  cursor: pointer;
+  border: 1px solid black;
+}
+
+/* Style for the search bar */
+.search {
+  padding: 10px;
+}
+
+/* Style for the restaurant logo */
+.res-logo {
+  width:100%;
+}
+
+.filter-btn
+{
+  margin:10px;
+  cursor: pointer;
+}
+
+
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shimmer-card {
+  margin: 20px;
+  width: 200px;
+  height: 400px;
+  background-color: #f0f0f0;
+}
+
+.login{
+  padding: 0 20px;
+  cursor: pointer;
+}
+
+.filter{
+  display:flex;
+}
