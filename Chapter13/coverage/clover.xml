@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1712472280228" clover="3.2.0">
+  <project timestamp="1712472280228" name="All files">
+    <metrics statements="77" coveredstatements="73" conditionals="12" coveredconditionals="8" methods="27" coveredmethods="23" elements="116" coveredelements="104" complexity="0" loc="77" ncloc="77" packages="2" files="12" classes="12"/>
+    <package name="Coding.Components">
+      <metrics statements="50" coveredstatements="49" conditionals="12" coveredconditionals="8" methods="17" coveredmethods="16"/>
+      <file name="Cart.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/Coding/Components/Cart.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+      </file>
+      <file name="Header.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/Coding/Components/Header.js">
+        <metrics statements="10" coveredstatements="9" conditionals="4" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="53" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="ItemList.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/Coding/Components/ItemList.js">
+        <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="17" count="13" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+      </file>
+      <file name="RestaurantCategory.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/Coding/Components/RestaurantCategory.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="20" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="20" type="stmt"/>
+        <line num="11" count="20" type="stmt"/>
+        <line num="13" count="20" type="stmt"/>
+      </file>
+      <file name="RestaurantMenu.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/Coding/Components/RestaurantMenu.js">
+        <metrics statements="17" coveredstatements="17" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="18" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="35" count="32" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="50" count="20" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+      </file>
+      <file name="Shimmer.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/Coding/Components/Shimmer.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="27" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="7"/>
+      <file name="UserContext.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/utils/UserContext.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+      <file name="appStore.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/utils/appStore.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="cartSlice.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/utils/cartSlice.js">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="constants.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/utils/constants.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="useOnlineStatus.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/utils/useOnlineStatus.js">
+        <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+      </file>
+      <file name="useRestaurantMenu.js" path="/Users/harshchoubey/Documents/Namaste-React/Chapter13/utils/useRestaurantMenu.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
